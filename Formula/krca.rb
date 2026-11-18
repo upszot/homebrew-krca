@@ -3,7 +3,7 @@ class Krca < Formula
 
   desc "Audit CPU, memory, requests and limits of Kubernetes containers"
   homepage "https://github.com/upszot/kubectl-resource-container-audit"
-  url "https://files.pythonhosted.org/packages/e0/7c/8bd3c16579caaa697385981e253f2d30d75eb449d8af53b84f9267bc2f8b/krca-6.1.1.tar.gz"
+  url "https://files.pythonhosted.org/packages/e0/7c/8bd3c16579caaa697385981e253f2d30d75eb449d8af53b84f9267bc2f8b/krca-6.1.3.tar.gz"
   sha256 "0c5eefd077a835fbcb1b0fd731f2cf44fe2bd1ad0f8149cbc454cfa0d40447b5"
   license "GPL-3.0-or-later"
 
